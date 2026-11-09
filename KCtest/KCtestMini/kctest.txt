@@ -1,0 +1,5 @@
+on=0
+mob=1
+metin=0
+fixed=0
+dist=50
